@@ -32,3 +32,8 @@ git commit -m 'short message > 50 chars about what you did'
 
 //3. push (take your current committed changes and send them to your git repo)
 git push origin master
+
+
+## helpers
+check status of git
+git status 
